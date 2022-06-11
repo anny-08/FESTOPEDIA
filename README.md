@@ -28,7 +28,10 @@ USER INTERFACES-
 7. View comment section
 ![viewComment](https://user-images.githubusercontent.com/80616202/173082563-53859145-1198-4cad-afae-5b0f64730010.png)
 
-8. About Us page
+8. User profile update page
+![Screenshot (708)](https://user-images.githubusercontent.com/80616202/173168697-796344c9-8672-4f8b-a567-6381395e134e.png)
+
+9. About Us page
 ![aboutUs1](https://user-images.githubusercontent.com/80616202/173082733-ca78223d-896b-428a-afcf-0ae9c6917af5.png)
 
 ![aboutUs2](https://user-images.githubusercontent.com/80616202/173082781-f61c6271-c13a-48fe-9b71-4fbdcc21c7d4.png)
@@ -39,7 +42,7 @@ USER INTERFACES-
 
 ![aboutUs6](https://user-images.githubusercontent.com/80616202/173083011-8c77dc2d-2725-4ba4-a69c-ed6e0acb1f1b.png)
 
-9. Contact page
+10. Contact page
 ![contact1](https://user-images.githubusercontent.com/80616202/173083039-228bd612-5fa1-43e9-a7f6-b14539735133.png)
 
 ![contact2](https://user-images.githubusercontent.com/80616202/173083068-ae74c1ef-9b96-4678-9f36-b0bed9ddc757.png)
